@@ -1,6 +1,4 @@
-
-def GITHUB_PROJECT = “https://github.com/smandadapu/azuregithubrepo.git”
-
+def GITHUB_PROJECT = 'https://github.com/smandadapu/azuregithubrepo.git'
 def GITHUB_BRANCH = ‘${env.BRANCH_NAME}’
 
 node any
